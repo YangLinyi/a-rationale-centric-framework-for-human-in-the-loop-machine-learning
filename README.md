@@ -46,8 +46,16 @@ Then see _IMDb_generate_false_rationales_examples.ipynb_
 Run _IMDb_step1_generate_missing_rationales_examples.py_
 
 
+### Citation
+If you find this repository help your research, please consider citing the ACL 2022 paper:
 
-Other baselines training and prediction scripts are in progress
+@inproceedings{lu2022rationale,
+  title={A Rationale-Centric Framework for Human-in-the-loop Machine Learning},
+  author={Lu, Jinghui and Yang, Linyi and Namee, Brian and Zhang, Yue},
+  booktitle={Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={6986--6996},
+  year={2022}
+}
 
 
 
